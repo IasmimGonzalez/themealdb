@@ -4,7 +4,7 @@ import { AppContext } from "./AppContext"
 
 import Link from "next/link"
 
-function Header() {
+function Header(props) {
   const router = useRouter()
   const { pathname } = router
 
