@@ -36,7 +36,7 @@ npm run start
 - Readable code (variable names, structures) ok
 - Paging or infinite scrolling - ok
 - At least one unit test - not ok
-- Deploy to a server (AWS, Heroku, Azure, etc) - ok
+- Deploy to a server (AWS, Heroku, Azure, etc) - not ok
 
 ## Extra Points
 - Persist the loaded data (any database or serialized)
