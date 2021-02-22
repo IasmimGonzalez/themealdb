@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d7ed9855-7a58-4e14-bdb3-a6b75a28149a/resourceGroups/Topi/providers/Microsoft.Web/sites/TheMeal",
+    "appService.deploySubpath": "."
+}
