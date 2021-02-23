@@ -5,7 +5,7 @@
 I'm not realy good with Javascript, because it was the first technology I started to study, and I did a realy good bootcamp (at least most of it), but then I had to stop studying Javascript, node, next and etc. , when I got the internship that I currently am right now.
 The technologies that I have been using for the internship are pretty much different (Visual Basic, Asp.net, Bootstrap, Java), and JavaScript was mostly used to solve problems
 that we couldn't solve with the main stack (old versions, legacy projects ...) and the company doesn't have a culture of tests like most of the companies, so I'm realy bad at it, not just because of the company, but because i got so focused and worried in learning what they asked, that I didn't have the time to practice things that was not currently using.
-But please do not miss understand me. I know that automated tests are important and I completely that have to get better at it.
+But please do not miss understand me. I know that automated tests are important and I completely understand that have to get better at it.
 
 -> Another things:
 
